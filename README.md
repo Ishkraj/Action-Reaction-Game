@@ -1,6 +1,6 @@
 # This is my beginner java Script project just like simon say game 
 
-# Game Concept: Action-Jaction
+# Game Concept: Action-Reaction
 
 # Basic Gameplay:
 Interface: Screen par 4 coloured boxes honge (jaise Red, Green, Blue, Yellow).
