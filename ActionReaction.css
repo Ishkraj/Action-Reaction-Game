@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-image: url(space.jpg);
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.831);
+}
+h3{
+    color: white;
+}
+.btn{
+    height: 170px;
+    width: 170px;
+    border-radius: 20%;
+    /* border: 10px solid white; */
+    margin: 30px;
+}
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.564);
+    transition: 700ms;
+
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+
+}
+.red{
+    background-color: red;
+    border: 10px solid rgb(109, 1, 1);
+}
+.green{
+    background-color: green;
+    border: 10px solid rgb(39, 88, 1);
+}
+.blue{
+    background-color: blue;
+    border: 10px solid rgb(0, 18, 100);
+}
+.yellow{
+    background-color: yellow;
+    border: 10px solid rgb(139, 134, 2);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(3, 221, 3);
+}
